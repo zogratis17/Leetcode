@@ -17,6 +17,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0389-find-the-difference](https://github.com/zogratis17/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/zogratis17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/zogratis17/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/zogratis17/Leetcode/tree/master/0520-detect-capital) |
 | [1524-string-matching-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0228-summary-ranges](https://github.com/zogratis17/Leetcode/tree/master/0228-summary-ranges) |
+| [0500-keyboard-row](https://github.com/zogratis17/Leetcode/tree/master/0500-keyboard-row) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/zogratis17/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0205-isomorphic-strings](https://github.com/zogratis17/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/zogratis17/Leetcode/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/zogratis17/Leetcode/tree/master/0500-keyboard-row) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
 |  |

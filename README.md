@@ -25,6 +25,7 @@
 | ------- |
 | [0228-summary-ranges](https://github.com/zogratis17/Leetcode/tree/master/0228-summary-ranges) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/zogratis17/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zogratis17/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zogratis17/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Hash Table
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->

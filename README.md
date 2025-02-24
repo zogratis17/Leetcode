@@ -10,6 +10,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/zogratis17/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1524-string-matching-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Bit Manipulation
@@ -42,6 +43,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/zogratis17/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
 |  |

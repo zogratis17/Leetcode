@@ -1,4 +1,5 @@
-# Leetcode
+# LeetCode
+A collection of LeetCode questions I solve everyday maintaining my daily streak! 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math

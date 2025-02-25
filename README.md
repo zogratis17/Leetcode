@@ -5,6 +5,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/zogratis17/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/zogratis17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/zogratis17/Leetcode/tree/master/0066-plus-one) |
 | [0228-summary-ranges](https://github.com/zogratis17/Leetcode/tree/master/0228-summary-ranges) |
 | [0500-keyboard-row](https://github.com/zogratis17/Leetcode/tree/master/0500-keyboard-row) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/zogratis17/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |

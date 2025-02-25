@@ -14,6 +14,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/zogratis17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/zogratis17/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/zogratis17/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/zogratis17/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/zogratis17/Leetcode/tree/master/0412-fizz-buzz) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/zogratis17/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/zogratis17/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/zogratis17/Leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/zogratis17/Leetcode/tree/master/0500-keyboard-row) |

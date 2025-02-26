@@ -37,6 +37,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/zogratis17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0001-two-sum](https://github.com/zogratis17/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/zogratis17/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zogratis17/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zogratis17/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |

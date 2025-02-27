@@ -28,6 +28,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0557-reverse-words-in-a-string-iii](https://github.com/zogratis17/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/zogratis17/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/zogratis17/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Bit Manipulation
@@ -66,6 +67,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/zogratis17/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Matrix
 |  |

@@ -70,6 +70,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2132-convert-1d-array-into-2d-array](https://github.com/zogratis17/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/zogratis17/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zogratis17/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String Matching
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0500-keyboard-row](https://github.com/zogratis17/Leetcode/tree/master/0500-keyboard-row) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zogratis17/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zogratis17/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Counting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0557-reverse-words-in-a-string-iii](https://github.com/zogratis17/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/zogratis17/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/zogratis17/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zogratis17/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
 | ------- |

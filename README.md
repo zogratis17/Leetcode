@@ -49,6 +49,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zogratis17/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/zogratis17/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/zogratis17/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Array
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1524-string-matching-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/zogratis17/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zogratis17/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/zogratis17/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/zogratis17/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zogratis17/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0392-is-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/zogratis17/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/zogratis17/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/zogratis17/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/zogratis17/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zogratis17/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer

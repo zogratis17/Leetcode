@@ -5,6 +5,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/zogratis17/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/zogratis17/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/zogratis17/Leetcode/tree/master/0268-missing-number) |

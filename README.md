@@ -11,6 +11,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0268-missing-number](https://github.com/zogratis17/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/zogratis17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/zogratis17/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## String
 |  |
 | ------- |

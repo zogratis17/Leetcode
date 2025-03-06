@@ -13,6 +13,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/zogratis17/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/zogratis17/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/zogratis17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2551-apply-operations-to-an-array](https://github.com/zogratis17/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zogratis17/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/zogratis17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zogratis17/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/zogratis17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zogratis17/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zogratis17/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/zogratis17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |

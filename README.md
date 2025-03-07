@@ -12,6 +12,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0412-fizz-buzz](https://github.com/zogratis17/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/zogratis17/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/zogratis17/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/zogratis17/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/zogratis17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -166,4 +167,8 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zogratis17/Leetcode/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/zogratis17/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->

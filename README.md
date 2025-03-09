@@ -84,6 +84,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zogratis17/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/zogratis17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/zogratis17/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -182,4 +183,5 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zogratis17/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/zogratis17/Leetcode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->

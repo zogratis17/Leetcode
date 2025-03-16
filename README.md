@@ -66,6 +66,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0001-two-sum](https://github.com/zogratis17/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/zogratis17/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/zogratis17/Leetcode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/zogratis17/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zogratis17/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/zogratis17/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zogratis17/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/zogratis17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |

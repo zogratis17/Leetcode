@@ -77,6 +77,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/zogratis17/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/zogratis17/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/zogratis17/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/zogratis17/Leetcode/tree/master/0500-keyboard-row) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/zogratis17/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0978-valid-mountain-array](https://github.com/zogratis17/Leetcode/tree/master/0978-valid-mountain-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/zogratis17/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/zogratis17/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/zogratis17/Leetcode/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zogratis17/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |

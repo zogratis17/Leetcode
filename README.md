@@ -82,6 +82,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0414-third-maximum-number](https://github.com/zogratis17/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/zogratis17/Leetcode/tree/master/0500-keyboard-row) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/zogratis17/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/zogratis17/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0978-valid-mountain-array](https://github.com/zogratis17/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zogratis17/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0268-missing-number](https://github.com/zogratis17/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/zogratis17/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/zogratis17/Leetcode/tree/master/0414-third-maximum-number) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/zogratis17/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zogratis17/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |

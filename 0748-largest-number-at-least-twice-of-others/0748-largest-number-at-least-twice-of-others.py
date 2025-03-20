@@ -5,7 +5,7 @@ class Solution:
         del nums[index]
         secondmax = max(nums)
 
-        if firstmax < secondmax*2:
-            return -1
-        else:
+        if firstmax >= secondmax*2:
             return index
+        else:
+            return -1

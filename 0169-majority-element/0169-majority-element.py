@@ -4,6 +4,6 @@ class Solution:
         count = Counter(nums)
 
         for key , value in count.items():
-            if value >= n/2:
+            if value > n/2:
                 return key
         return 0

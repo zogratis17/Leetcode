@@ -26,6 +26,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/zogratis17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/zogratis17/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/zogratis17/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/zogratis17/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0013-roman-to-integer](https://github.com/zogratis17/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/zogratis17/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/zogratis17/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/zogratis17/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/zogratis17/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/zogratis17/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/zogratis17/Leetcode/tree/master/0414-third-maximum-number) |

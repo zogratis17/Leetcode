@@ -42,6 +42,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0680-valid-palindrome-ii](https://github.com/zogratis17/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/zogratis17/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/zogratis17/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zogratis17/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Bit Manipulation
@@ -90,6 +91,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1848-sum-of-unique-elements](https://github.com/zogratis17/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2102-find-the-middle-index-in-array](https://github.com/zogratis17/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/zogratis17/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/zogratis17/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/zogratis17/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/zogratis17/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/zogratis17/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zogratis17/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/zogratis17/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/zogratis17/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/zogratis17/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/zogratis17/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/zogratis17/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -208,4 +211,12 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zogratis17/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/zogratis17/Leetcode/tree/master/3483-alternating-groups-ii) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/zogratis17/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/zogratis17/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->

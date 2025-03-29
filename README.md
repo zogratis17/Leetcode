@@ -15,6 +15,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [1319-unique-number-of-occurrences](https://github.com/zogratis17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/zogratis17/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/zogratis17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/zogratis17/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -62,4 +62,5 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/zogratis17/Leetcode/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/zogratis17/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

@@ -1,16 +1,21 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        summ = 0 
-        n = len(s)
-        i = 0
-
-        d = {'I':1, 'V':5, 'X':10, 'L':50, 'C': 100, 'D': 500, 'M': 1000}
-
-        while i < n:
-            if i < n -1 and d[s[i]] < d[s[i+1]]:
-                summ+= d[s[i+1]] - d[s[i]]
-                i+=2
+        roman_dict = {
+            'I': 1, 'V': 5, 'X': 10, 'L': 50, 
+            'C': 100, 'D': 500, 'M': 1000
+        }
+        
+        total = 0
+        prev_value = 0  # Keep track of the previous value
+        
+        for char in reversed(s):  # Traverse from right to left
+            curr_value = roman_dict[char]
+            
+            if curr_value < prev_value:  # If smaller value precedes a larger one
+                total -= curr_value
             else:
-                summ+= d[s[i]]
-                i+=1
-        return summ
+                total += curr_value
+                
+            prev_value = curr_value  # Update previous value
+        
+        return total

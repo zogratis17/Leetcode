@@ -19,3 +19,6 @@ class Solution:
             prev_value = curr_value  # Update previous value
         
         return total
+
+        # Time : O(N)
+        # Space : O(1)

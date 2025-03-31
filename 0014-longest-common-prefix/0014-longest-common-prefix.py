@@ -12,5 +12,5 @@ class Solution:
 
         return pref
 
-            # Time: O(m * S²)
-            # Space: O(S)
+            # Time: O(m * n)
+            # Space: O(n)

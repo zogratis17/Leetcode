@@ -15,6 +15,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zogratis17/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/zogratis17/Leetcode/tree/master/0274-h-index) |
 | [0978-valid-mountain-array](https://github.com/zogratis17/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/zogratis17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zogratis17/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/zogratis17/Leetcode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/zogratis17/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

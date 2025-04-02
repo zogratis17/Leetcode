@@ -19,6 +19,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0978-valid-mountain-array](https://github.com/zogratis17/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/zogratis17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zogratis17/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2262-solving-questions-with-brainpower](https://github.com/zogratis17/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/zogratis17/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0045-jump-game-ii](https://github.com/zogratis17/Leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zogratis17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zogratis17/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/zogratis17/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |

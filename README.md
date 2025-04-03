@@ -100,4 +100,17 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0136-single-number](https://github.com/zogratis17/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/zogratis17/Leetcode/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/zogratis17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/zogratis17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/zogratis17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/zogratis17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->

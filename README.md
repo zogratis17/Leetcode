@@ -38,6 +38,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/zogratis17/Leetcode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0001-two-sum](https://github.com/zogratis17/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/zogratis17/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/zogratis17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zogratis17/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0014-longest-common-prefix](https://github.com/zogratis17/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/zogratis17/Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Trie
 |  |

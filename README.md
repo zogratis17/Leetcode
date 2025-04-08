@@ -9,6 +9,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0001-two-sum](https://github.com/zogratis17/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zogratis17/Leetcode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/zogratis17/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/zogratis17/Leetcode/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/zogratis17/Leetcode/tree/master/0075-sort-colors) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0001-two-sum](https://github.com/zogratis17/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/zogratis17/Leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/zogratis17/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |

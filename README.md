@@ -173,4 +173,8 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/zogratis17/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->

@@ -1,18 +1,6 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        char_index_s = {}
-        char_index_t = {}
-
-        for i in range(len(s)):
-            if s[i] not in char_index_s:
-                char_index_s[s[i]] = i
-            if t[i] not in char_index_t:
-                char_index_t[t[i]] = i
-
-            if char_index_s[s[i]] != char_index_t[t[i]]:
-                return False
-        
-        return True
+        return [s.index(c) for c in s] == [t.index(d) for d in t]
 
         # Time : O(N)
-        # Space : O(1)
+        # Space : O(N)

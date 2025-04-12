@@ -180,6 +180,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/zogratis17/Leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/zogratis17/Leetcode/tree/master/0595-big-countries) |
 ## Enumeration
 |  |
 | ------- |

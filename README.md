@@ -11,6 +11,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0027-remove-element](https://github.com/zogratis17/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/zogratis17/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/zogratis17/Leetcode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/zogratis17/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zogratis17/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zogratis17/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Counting Sort
@@ -174,6 +176,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Prefix Sum
 |  |

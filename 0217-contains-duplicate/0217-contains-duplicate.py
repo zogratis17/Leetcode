@@ -1,12 +1,6 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        count = Counter(nums)
-
-        for element, freq in count.items():
-            if freq > 1:
-                return True
-
-        return False
+        return len(nums)!=len(set(nums))
 
         # Time : O(N)
         # Space : O(N)

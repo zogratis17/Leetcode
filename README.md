@@ -254,6 +254,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/zogratis17/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [2050-count-good-numbers](https://github.com/zogratis17/Leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
 |  |
@@ -289,4 +290,8 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0214-shortest-palindrome](https://github.com/zogratis17/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zogratis17/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/zogratis17/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

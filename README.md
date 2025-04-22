@@ -12,6 +12,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/zogratis17/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/zogratis17/Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/zogratis17/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/zogratis17/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/zogratis17/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/zogratis17/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/zogratis17/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Prefix Sum

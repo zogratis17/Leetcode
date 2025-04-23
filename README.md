@@ -98,6 +98,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/zogratis17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zogratis17/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1500-count-largest-group](https://github.com/zogratis17/Leetcode/tree/master/1500-count-largest-group) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zogratis17/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/zogratis17/Leetcode/tree/master/2634-minimum-common-value) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/zogratis17/Leetcode/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/zogratis17/Leetcode/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zogratis17/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/zogratis17/Leetcode/tree/master/2998-count-symmetric-integers) |

@@ -49,6 +49,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2634-minimum-common-value](https://github.com/zogratis17/Leetcode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/zogratis17/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/zogratis17/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/zogratis17/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zogratis17/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2626-count-the-number-of-good-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/zogratis17/Leetcode/tree/master/2634-minimum-common-value) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/zogratis17/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Divide and Conquer
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0724-find-pivot-index](https://github.com/zogratis17/Leetcode/tree/master/0724-find-pivot-index) |
 | [2249-count-the-hidden-sequences](https://github.com/zogratis17/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2915-count-of-interesting-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 ## Queue
 |  |
 | ------- |

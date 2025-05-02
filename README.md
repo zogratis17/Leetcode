@@ -68,6 +68,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0088-merge-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/zogratis17/Leetcode/tree/master/0344-reverse-string) |
+| [0868-push-dominoes](https://github.com/zogratis17/Leetcode/tree/master/0868-push-dominoes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zogratis17/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2634-minimum-common-value](https://github.com/zogratis17/Leetcode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/zogratis17/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/zogratis17/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0868-push-dominoes](https://github.com/zogratis17/Leetcode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/zogratis17/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zogratis17/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Greedy
@@ -172,6 +174,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0520-detect-capital](https://github.com/zogratis17/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/zogratis17/Leetcode/tree/master/0742-to-lower-case) |
+| [0868-push-dominoes](https://github.com/zogratis17/Leetcode/tree/master/0868-push-dominoes) |
 | [1944-truncate-sentence](https://github.com/zogratis17/Leetcode/tree/master/1944-truncate-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zogratis17/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/zogratis17/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |

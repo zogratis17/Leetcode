@@ -44,6 +44,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1392-find-the-difference-of-two-arrays](https://github.com/zogratis17/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1656-count-good-triplets](https://github.com/zogratis17/Leetcode/tree/master/1656-count-good-triplets) |
 | [1944-truncate-sentence](https://github.com/zogratis17/Leetcode/tree/master/1944-truncate-sentence) |
+| [2048-build-array-from-permutation](https://github.com/zogratis17/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/zogratis17/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/zogratis17/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/zogratis17/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/zogratis17/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zogratis17/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Counting Sort
 |  |

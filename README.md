@@ -47,6 +47,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1944-truncate-sentence](https://github.com/zogratis17/Leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/zogratis17/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/zogratis17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/zogratis17/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/zogratis17/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zogratis17/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0274-h-index](https://github.com/zogratis17/Leetcode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/zogratis17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/zogratis17/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1392-find-the-difference-of-two-arrays](https://github.com/zogratis17/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1500-count-largest-group](https://github.com/zogratis17/Leetcode/tree/master/1500-count-largest-group) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zogratis17/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2215-finding-3-digit-even-numbers](https://github.com/zogratis17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/zogratis17/Leetcode/tree/master/2634-minimum-common-value) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/zogratis17/Leetcode/tree/master/1656-count-good-triplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/zogratis17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/zogratis17/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/zogratis17/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics

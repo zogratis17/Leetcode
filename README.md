@@ -306,6 +306,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1258-article-views-i](https://github.com/zogratis17/Leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/zogratis17/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/zogratis17/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/zogratis17/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/zogratis17/Leetcode/tree/master/1827-invalid-tweets) |
 ## Enumeration
 |  |

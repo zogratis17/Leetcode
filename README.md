@@ -67,6 +67,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3321-type-of-triangle](https://github.com/zogratis17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zogratis17/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zogratis17/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/zogratis17/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/zogratis17/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/zogratis17/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Two Pointers
@@ -295,6 +296,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0724-find-pivot-index](https://github.com/zogratis17/Leetcode/tree/master/0724-find-pivot-index) |
 | [2249-count-the-hidden-sequences](https://github.com/zogratis17/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3639-zero-array-transformation-i](https://github.com/zogratis17/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Queue
 |  |
 | ------- |

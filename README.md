@@ -286,6 +286,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zogratis17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zogratis17/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,11 +298,13 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zogratis17/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zogratis17/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Matrix
 |  |
 | ------- |

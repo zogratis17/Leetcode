@@ -140,6 +140,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3548-find-the-count-of-good-integers](https://github.com/zogratis17/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zogratis17/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zogratis17/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zogratis17/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zogratis17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zogratis17/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zogratis17/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zogratis17/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zogratis17/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zogratis17/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/zogratis17/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zogratis17/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
 |  |
 | ------- |

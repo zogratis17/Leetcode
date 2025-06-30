@@ -32,6 +32,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0416-partition-equal-subset-sum](https://github.com/zogratis17/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/zogratis17/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/zogratis17/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/zogratis17/Leetcode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zogratis17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/zogratis17/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/zogratis17/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zogratis17/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zogratis17/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zogratis17/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/zogratis17/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zogratis17/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |

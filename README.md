@@ -117,6 +117,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zogratis17/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zogratis17/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/zogratis17/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/zogratis17/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/zogratis17/Leetcode/tree/master/0049-group-anagrams) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zogratis17/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/zogratis17/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/zogratis17/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/zogratis17/Leetcode/tree/master/0020-valid-parentheses) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zogratis17/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/zogratis17/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |

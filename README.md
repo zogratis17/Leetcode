@@ -178,6 +178,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0048-rotate-image](https://github.com/zogratis17/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/zogratis17/Leetcode/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/zogratis17/Leetcode/tree/master/2050-count-good-numbers) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/zogratis17/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/zogratis17/Leetcode/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/zogratis17/Leetcode/tree/master/0742-to-lower-case) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/zogratis17/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/zogratis17/Leetcode/tree/master/2048-build-array-from-permutation) |

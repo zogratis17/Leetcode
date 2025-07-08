@@ -1,8 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        
-        brak = {')':'(', '}':'{', ']':'['}
-        stack = []
+        brak = {'}':'{', ']':'[',')':'('}
+        stack = [] 
 
         for i in s:
             if i in brak.values():
@@ -10,5 +9,5 @@ class Solution:
             elif i in brak:
                 if not stack or stack.pop() != brak[i]:
                     return False
+        
         return len(stack) == 0
-                

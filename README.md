@@ -49,6 +49,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1293-three-consecutive-odds](https://github.com/zogratis17/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/zogratis17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zogratis17/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/zogratis17/Leetcode/tree/master/1656-count-good-triplets) |
 | [1944-truncate-sentence](https://github.com/zogratis17/Leetcode/tree/master/1944-truncate-sentence) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0035-search-insert-position](https://github.com/zogratis17/Leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/zogratis17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2634-minimum-common-value](https://github.com/zogratis17/Leetcode/tree/master/2634-minimum-common-value) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0861-flipping-an-image](https://github.com/zogratis17/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/zogratis17/Leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/zogratis17/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zogratis17/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zogratis17/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Prefix Sum

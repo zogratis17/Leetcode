@@ -190,6 +190,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zogratis17/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/zogratis17/Leetcode/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/zogratis17/Leetcode/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zogratis17/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/zogratis17/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/zogratis17/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/zogratis17/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zogratis17/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Number Theory
 |  |
 | ------- |

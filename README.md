@@ -263,6 +263,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/zogratis17/Leetcode/tree/master/0742-to-lower-case) |
 | [0868-push-dominoes](https://github.com/zogratis17/Leetcode/tree/master/0868-push-dominoes) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/zogratis17/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zogratis17/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1944-truncate-sentence](https://github.com/zogratis17/Leetcode/tree/master/1944-truncate-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zogratis17/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |

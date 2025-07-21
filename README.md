@@ -36,6 +36,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0442-find-all-duplicates-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/zogratis17/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/zogratis17/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/zogratis17/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0045-jump-game-ii](https://github.com/zogratis17/Leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zogratis17/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/zogratis17/Leetcode/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/zogratis17/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |

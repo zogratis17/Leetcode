@@ -1,20 +1,14 @@
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
-
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        l = 0 
-        r = 1
-        maxProfit=0
+        l , r , maxProfit = 0 ,1 , 0
 
-        while r<len(prices):
+        while r < len(prices):
             if prices[r] > prices[l]:
-                profit = prices[r] - prices[l]
-                if profit > maxProfit:
-                    maxProfit = profit
+                currProf = prices[r] - prices[l]
+                maxProfit = max(currProf, maxProfit)
+                r+=1
             else:
-                l=r
-            r+=1
+                l+=1
+                r = l+1
+        
         return maxProfit
-
-        # Time : O(N)
-        # Space : O(1)

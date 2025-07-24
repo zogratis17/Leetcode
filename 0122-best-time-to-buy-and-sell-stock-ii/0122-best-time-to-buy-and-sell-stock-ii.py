@@ -1,12 +1,9 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        profit = 0
+        maxp = 0
 
-        for i in range(1, len(prices)):
-            if prices[i] > prices [i-1]:
-                profit += prices[i] - prices[i-1]
-            
-        return profit
-
-        # TIME : O(N)
-        # SPACE : O(1)
+        for i in range(1,len(prices)):
+            if prices[i] > prices[i-1]:
+                maxp += prices[i] - prices[i-1]
+        
+        return maxp

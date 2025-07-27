@@ -189,6 +189,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/zogratis17/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/zogratis17/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/zogratis17/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |

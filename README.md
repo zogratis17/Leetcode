@@ -332,6 +332,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/zogratis17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -341,12 +342,14 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/zogratis17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/zogratis17/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/zogratis17/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |

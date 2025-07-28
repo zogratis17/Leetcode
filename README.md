@@ -31,6 +31,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0217-contains-duplicate](https://github.com/zogratis17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/zogratis17/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/zogratis17/Leetcode/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/zogratis17/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0141-linked-list-cycle](https://github.com/zogratis17/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/zogratis17/Leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/zogratis17/Leetcode/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/zogratis17/Leetcode/tree/master/0868-push-dominoes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zogratis17/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0217-contains-duplicate](https://github.com/zogratis17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/zogratis17/Leetcode/tree/master/0274-h-index) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0217-contains-duplicate](https://github.com/zogratis17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/zogratis17/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/zogratis17/Leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/zogratis17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |

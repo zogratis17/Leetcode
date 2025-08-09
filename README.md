@@ -199,6 +199,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0013-roman-to-integer](https://github.com/zogratis17/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/zogratis17/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/zogratis17/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0136-single-number](https://github.com/zogratis17/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/zogratis17/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/zogratis17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/zogratis17/Leetcode/tree/master/0231-power-of-two) |
 | [0861-flipping-an-image](https://github.com/zogratis17/Leetcode/tree/master/0861-flipping-an-image) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zogratis17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search
@@ -443,6 +445,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/zogratis17/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/zogratis17/Leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/zogratis17/Leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
 |  |

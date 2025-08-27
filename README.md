@@ -215,6 +215,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/zogratis17/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zogratis17/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/zogratis17/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/zogratis17/Leetcode/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/zogratis17/Leetcode/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zogratis17/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0605-can-place-flowers](https://github.com/zogratis17/Leetcode/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/zogratis17/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/zogratis17/Leetcode/tree/master/1448-maximum-69-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/zogratis17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zogratis17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |

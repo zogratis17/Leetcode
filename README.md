@@ -50,6 +50,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0898-transpose-matrix](https://github.com/zogratis17/Leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/zogratis17/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0978-valid-mountain-array](https://github.com/zogratis17/Leetcode/tree/master/0978-valid-mountain-array) |
+| [1036-rotting-oranges](https://github.com/zogratis17/Leetcode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/zogratis17/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zogratis17/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/zogratis17/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0104-maximum-depth-of-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/zogratis17/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/zogratis17/Leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zogratis17/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zogratis17/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0861-flipping-an-image](https://github.com/zogratis17/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/zogratis17/Leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/zogratis17/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/zogratis17/Leetcode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zogratis17/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zogratis17/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |

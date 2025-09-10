@@ -208,6 +208,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0009-palindrome-number](https://github.com/zogratis17/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/zogratis17/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/zogratis17/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/zogratis17/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/zogratis17/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zogratis17/Leetcode/tree/master/0326-power-of-three) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0042-trapping-rain-water](https://github.com/zogratis17/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/zogratis17/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zogratis17/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/zogratis17/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/zogratis17/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zogratis17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zogratis17/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/zogratis17/Leetcode/tree/master/0062-unique-paths) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zogratis17/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/zogratis17/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/zogratis17/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |

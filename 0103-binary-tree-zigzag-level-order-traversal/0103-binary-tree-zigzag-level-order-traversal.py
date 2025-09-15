@@ -2,7 +2,8 @@ from collections import deque
 
 class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        if not root: return []
+        if not root: 
+            return []
         res, dq, reverse = [], deque([root]), False
 
         while dq:

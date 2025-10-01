@@ -227,6 +227,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/zogratis17/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/zogratis17/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/zogratis17/Leetcode/tree/master/1500-count-largest-group) |
+| [1642-water-bottles](https://github.com/zogratis17/Leetcode/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/zogratis17/Leetcode/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zogratis17/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/zogratis17/Leetcode/tree/master/2998-count-symmetric-integers) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/zogratis17/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/zogratis17/Leetcode/tree/master/0898-transpose-matrix) |
+| [1642-water-bottles](https://github.com/zogratis17/Leetcode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/zogratis17/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/zogratis17/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/zogratis17/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |

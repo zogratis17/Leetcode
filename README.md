@@ -7,6 +7,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zogratis17/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/zogratis17/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/zogratis17/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/zogratis17/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zogratis17/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zogratis17/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zogratis17/Leetcode/tree/master/0027-remove-element) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zogratis17/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/zogratis17/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zogratis17/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zogratis17/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |

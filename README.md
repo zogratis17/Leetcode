@@ -93,6 +93,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zogratis17/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/zogratis17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/zogratis17/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zogratis17/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zogratis17/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zogratis17/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/zogratis17/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2915-count-of-interesting-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zogratis17/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3548-find-the-count-of-good-integers](https://github.com/zogratis17/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zogratis17/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zogratis17/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zogratis17/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zogratis17/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/zogratis17/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/zogratis17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/zogratis17/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zogratis17/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/zogratis17/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zogratis17/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/zogratis17/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |

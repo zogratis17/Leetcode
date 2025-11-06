@@ -106,6 +106,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/zogratis17/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zogratis17/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/zogratis17/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3863-power-grid-maintenance](https://github.com/zogratis17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/zogratis17/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zogratis17/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/zogratis17/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3863-power-grid-maintenance](https://github.com/zogratis17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/zogratis17/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zogratis17/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/zogratis17/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/zogratis17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -443,6 +446,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2121-find-if-path-exists-in-graph](https://github.com/zogratis17/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zogratis17/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/zogratis17/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/zogratis17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -541,6 +545,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3863-power-grid-maintenance](https://github.com/zogratis17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -600,6 +605,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/zogratis17/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zogratis17/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zogratis17/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/zogratis17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -608,6 +614,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zogratis17/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zogratis17/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/zogratis17/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3863-power-grid-maintenance](https://github.com/zogratis17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -630,6 +637,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/zogratis17/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3863-power-grid-maintenance](https://github.com/zogratis17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |

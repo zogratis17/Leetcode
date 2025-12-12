@@ -38,6 +38,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0217-contains-duplicate](https://github.com/zogratis17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/zogratis17/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/zogratis17/Leetcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/zogratis17/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0151-reverse-words-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zogratis17/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/zogratis17/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0392-is-subsequence) |

@@ -64,6 +64,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zogratis17/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/zogratis17/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/zogratis17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/zogratis17/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0222-count-complete-tree-nodes](https://github.com/zogratis17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0898-transpose-matrix](https://github.com/zogratis17/Leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/zogratis17/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/zogratis17/Leetcode/tree/master/1036-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/zogratis17/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zogratis17/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |

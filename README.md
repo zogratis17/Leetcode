@@ -31,6 +31,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0118-pascals-triangle](https://github.com/zogratis17/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zogratis17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zogratis17/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/zogratis17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/zogratis17/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zogratis17/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0041-first-missing-positive](https://github.com/zogratis17/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/zogratis17/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/zogratis17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/zogratis17/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/zogratis17/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/zogratis17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zogratis17/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3863-power-grid-maintenance](https://github.com/zogratis17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Backtracking

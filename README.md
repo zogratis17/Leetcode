@@ -53,6 +53,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/zogratis17/Leetcode/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/zogratis17/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/zogratis17/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/zogratis17/Leetcode/tree/master/0898-transpose-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/zogratis17/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0697-degree-of-an-array](https://github.com/zogratis17/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0756-pyramid-transition-matrix](https://github.com/zogratis17/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/zogratis17/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/zogratis17/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zogratis17/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/zogratis17/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/zogratis17/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/zogratis17/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/zogratis17/Leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/zogratis17/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0063-unique-paths-ii](https://github.com/zogratis17/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/zogratis17/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0840-magic-squares-in-grid](https://github.com/zogratis17/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/zogratis17/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/zogratis17/Leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/zogratis17/Leetcode/tree/master/0945-snakes-and-ladders) |

@@ -72,6 +72,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1656-count-good-triplets](https://github.com/zogratis17/Leetcode/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/zogratis17/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1944-truncate-sentence](https://github.com/zogratis17/Leetcode/tree/master/1944-truncate-sentence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/zogratis17/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2048-build-array-from-permutation](https://github.com/zogratis17/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zogratis17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/zogratis17/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2634-minimum-common-value](https://github.com/zogratis17/Leetcode/tree/master/2634-minimum-common-value) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0104-maximum-depth-of-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/zogratis17/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zogratis17/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/zogratis17/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zogratis17/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0945-snakes-and-ladders](https://github.com/zogratis17/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/zogratis17/Leetcode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/zogratis17/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zogratis17/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zogratis17/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/zogratis17/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -477,6 +481,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1036-rotting-oranges](https://github.com/zogratis17/Leetcode/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/zogratis17/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/zogratis17/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/zogratis17/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/zogratis17/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -657,6 +662,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/zogratis17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/zogratis17/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zogratis17/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3863-power-grid-maintenance](https://github.com/zogratis17/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Backtracking

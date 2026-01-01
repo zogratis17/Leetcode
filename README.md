@@ -24,6 +24,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/zogratis17/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/zogratis17/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/zogratis17/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/zogratis17/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zogratis17/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0013-roman-to-integer](https://github.com/zogratis17/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/zogratis17/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/zogratis17/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/zogratis17/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/zogratis17/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zogratis17/Leetcode/tree/master/0326-power-of-three) |

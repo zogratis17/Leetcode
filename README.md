@@ -439,6 +439,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zogratis17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/zogratis17/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/zogratis17/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0226-invert-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/zogratis17/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/zogratis17/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/zogratis17/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2121-find-if-path-exists-in-graph](https://github.com/zogratis17/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/zogratis17/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |

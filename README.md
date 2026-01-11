@@ -28,6 +28,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0073-set-matrix-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/zogratis17/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zogratis17/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/zogratis17/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/zogratis17/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/zogratis17/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zogratis17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0055-jump-game](https://github.com/zogratis17/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/zogratis17/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/zogratis17/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/zogratis17/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/zogratis17/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zogratis17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zogratis17/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/zogratis17/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/zogratis17/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/zogratis17/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/zogratis17/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/zogratis17/Leetcode/tree/master/0861-flipping-an-image) |
@@ -645,6 +648,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0020-valid-parentheses](https://github.com/zogratis17/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/zogratis17/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/zogratis17/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/zogratis17/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/zogratis17/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Queue
@@ -687,6 +691,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zogratis17/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/zogratis17/Leetcode/tree/master/0085-maximal-rectangle) |
 ## Union Find
 |  |
 | ------- |

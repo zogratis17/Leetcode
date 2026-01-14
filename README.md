@@ -109,6 +109,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zogratis17/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/zogratis17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3453-separate-squares-i](https://github.com/zogratis17/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/zogratis17/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/zogratis17/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/zogratis17/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zogratis17/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2634-minimum-common-value](https://github.com/zogratis17/Leetcode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/zogratis17/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3453-separate-squares-i](https://github.com/zogratis17/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/zogratis17/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Tree
 |  |
 | ------- |
@@ -596,6 +598,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/zogratis17/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -712,4 +715,8 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/zogratis17/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/zogratis17/Leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->

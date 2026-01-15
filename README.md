@@ -96,6 +96,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2699-count-the-number-of-fair-pairs](https://github.com/zogratis17/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/zogratis17/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/zogratis17/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zogratis17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/zogratis17/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zogratis17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/zogratis17/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/zogratis17/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zogratis17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/zogratis17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/zogratis17/Leetcode/tree/master/3647-zero-array-transformation-iii) |

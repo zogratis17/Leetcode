@@ -98,6 +98,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2915-count-of-interesting-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/zogratis17/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/zogratis17/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zogratis17/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/zogratis17/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/zogratis17/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/zogratis17/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [2050-count-good-numbers](https://github.com/zogratis17/Leetcode/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/zogratis17/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/zogratis17/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zogratis17/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/zogratis17/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/zogratis17/Leetcode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/zogratis17/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/zogratis17/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/zogratis17/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Line Sweep
 |  |
 | ------- |

@@ -66,6 +66,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [1018-largest-perimeter-triangle](https://github.com/zogratis17/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/zogratis17/Leetcode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/zogratis17/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1200-minimum-absolute-difference](https://github.com/zogratis17/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/zogratis17/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/zogratis17/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/zogratis17/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/zogratis17/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/zogratis17/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/zogratis17/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/zogratis17/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/zogratis17/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/zogratis17/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |

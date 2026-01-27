@@ -271,6 +271,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0048-rotate-image](https://github.com/zogratis17/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/zogratis17/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/zogratis17/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/zogratis17/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/zogratis17/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zogratis17/Leetcode/tree/master/0326-power-of-three) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0055-jump-game](https://github.com/zogratis17/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/zogratis17/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/zogratis17/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/zogratis17/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/zogratis17/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/zogratis17/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zogratis17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/zogratis17/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/zogratis17/Leetcode/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/zogratis17/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Monotonic Stack

@@ -42,6 +42,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0219-contains-duplicate-ii](https://github.com/zogratis17/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/zogratis17/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/zogratis17/Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/zogratis17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/zogratis17/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0217-contains-duplicate](https://github.com/zogratis17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/zogratis17/Leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/zogratis17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/zogratis17/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0217-contains-duplicate](https://github.com/zogratis17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/zogratis17/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/zogratis17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -246,11 +249,13 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | ------- |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/zogratis17/Leetcode/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/zogratis17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/zogratis17/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/zogratis17/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/zogratis17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/zogratis17/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -697,6 +702,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/zogratis17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zogratis17/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/zogratis17/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/zogratis17/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -749,4 +755,12 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zogratis17/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zogratis17/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zogratis17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

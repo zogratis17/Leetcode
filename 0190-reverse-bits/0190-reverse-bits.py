@@ -1,11 +1,9 @@
 class Solution:
     def reverseBits(self, n: int) -> int:
-        res = 0
-        for _ in range(32):
-            bit = n&1 #Least Significant Bit Extraction
-            res = (res << 1) | bit # Appending that bit to res
-            n >>=1 # Right shift n to process next one 
-        return res
-
-        # Time : O(32)
-        # Space : O(1)
+        if n==0: return 0
+        ans=0
+        while n>0:
+            ans+=1<<(32-(n&-n).bit_length())
+            n&=(n-1)
+        return ans
+        

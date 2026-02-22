@@ -451,6 +451,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0342-power-of-four](https://github.com/zogratis17/Leetcode/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/zogratis17/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0861-flipping-an-image](https://github.com/zogratis17/Leetcode/tree/master/0861-flipping-an-image) |
+| [0868-binary-gap](https://github.com/zogratis17/Leetcode/tree/master/0868-binary-gap) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/zogratis17/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search
 |  |

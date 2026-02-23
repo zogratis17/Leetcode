@@ -279,6 +279,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0048-rotate-image](https://github.com/zogratis17/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/zogratis17/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/zogratis17/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/zogratis17/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/zogratis17/Leetcode/tree/master/0231-power-of-two) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0038-count-and-say](https://github.com/zogratis17/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/zogratis17/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/zogratis17/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/zogratis17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/zogratis17/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/zogratis17/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/zogratis17/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/zogratis17/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/zogratis17/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/zogratis17/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/zogratis17/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/zogratis17/Leetcode/tree/master/0222-count-complete-tree-nodes) |

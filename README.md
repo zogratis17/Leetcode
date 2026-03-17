@@ -282,6 +282,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/zogratis17/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/zogratis17/Leetcode/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/zogratis17/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/zogratis17/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/zogratis17/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zogratis17/Leetcode/tree/master/0326-power-of-three) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0067-add-binary](https://github.com/zogratis17/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/zogratis17/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/zogratis17/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/zogratis17/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/zogratis17/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/zogratis17/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/zogratis17/Leetcode/tree/master/0242-valid-anagram) |

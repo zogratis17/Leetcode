@@ -335,6 +335,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0806-domino-and-tromino-tiling](https://github.com/zogratis17/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/zogratis17/Leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/zogratis17/Leetcode/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/zogratis17/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/zogratis17/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/zogratis17/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/zogratis17/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0756-pyramid-transition-matrix](https://github.com/zogratis17/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0868-push-dominoes](https://github.com/zogratis17/Leetcode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/zogratis17/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1143-longest-common-subsequence](https://github.com/zogratis17/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/zogratis17/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/zogratis17/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zogratis17/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |

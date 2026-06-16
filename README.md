@@ -66,6 +66,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/zogratis17/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/zogratis17/Leetcode/tree/master/0978-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/zogratis17/Leetcode/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/zogratis17/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/zogratis17/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/zogratis17/Leetcode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/zogratis17/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0350-intersection-of-two-arrays-ii](https://github.com/zogratis17/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/zogratis17/Leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/zogratis17/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/zogratis17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/zogratis17/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/zogratis17/Leetcode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/zogratis17/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2249-count-the-hidden-sequences](https://github.com/zogratis17/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/zogratis17/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions I solve everyday maintaining my daily streak!
 | [0594-longest-harmonious-subsequence](https://github.com/zogratis17/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/zogratis17/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/zogratis17/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/zogratis17/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/zogratis17/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zogratis17/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/zogratis17/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
